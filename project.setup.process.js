@@ -14,3 +14,7 @@
     13. package.json file setup
     14. finally npm run start-dev
 } */
+
+/* 
+mongoose schema design, model create & query = schema ==> model ==> query 
+*/
