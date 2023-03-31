@@ -8,9 +8,7 @@ mongoose
   .connect(process.env.DATABASE, {
     dbName: "inventory_API",
   })
-  .then(() => {
-    console.log("database connect is successful");
-  });
+  .then(() => {});
 
 // server
 const PORT = process.env.PORT || 5000;
